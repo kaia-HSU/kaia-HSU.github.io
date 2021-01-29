@@ -11,11 +11,7 @@
 
                     {% if page.image %}
 <!--                     <img class="img-main" src="{{ page.image | prepend: site.url }}" height="400"> -->
-                        <img class="img-main" src="{{ post.url }}" height="400">
-                        <script>
-                            console.log({{ post.url }});
-                        </script>
-
+                        <img class="img-main" src="{{ page.image | absolute_url }}" height="400">
                     {% endif %}
 
                     {% if page.video %}
