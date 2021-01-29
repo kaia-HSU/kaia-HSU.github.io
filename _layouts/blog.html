@@ -10,7 +10,8 @@
                     <a href="#" class="image-anchor">
 
                     {% if page.image %}
-                    <img class="img-main" src="{{ page.image | prepend: site.url }}" height="400">
+<!--                     <img class="img-main" src="{{ page.image | prepend: site.url }}" height="400"> -->
+                        <img class="img-main" src="{{ post.url | prepend: site.url }}" height="400">
                     {% endif %}
 
                     {% if page.video %}
