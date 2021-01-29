@@ -11,13 +11,7 @@
 
                     {% if page.image %}
 <!--                     <img class="img-main" src="{{ page.image | prepend: site.url }}" height="400"> -->
-                        <img class="img-main" src="{{ page.image }}" height="400">
-                        
-                        
-                        {% assign image_files = site.static_files | where: "image", true %}
-                            {% for myimage in image_files %}
-                                <img class="img-main" src="{{ myimage.path }}" height="400">
-                            {% endfor %}
+                        <img class="img-main" src="{{ post.image }}" height="400">
 
                     {% endif %}
 
