@@ -12,6 +12,9 @@
                     {% if page.image %}
 <!--                     <img class="img-main" src="{{ page.image | prepend: site.url }}" height="400"> -->
                         <img class="img-main" src="{{ post.url }}" height="400">
+                        <script>
+                            console.log({{ post.url }});
+                        </script>
 
                     {% endif %}
 
