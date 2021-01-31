@@ -10,7 +10,8 @@
                           <a href="{{ post.url | prepend: site.url }}" class="image-anchor">
 
                           {% if post.image %}
-                          <img class="img-main" src="{{ post.image | prepend: site.url }}" height="400">
+<!--                           <img class="img-main" src="{{ post.image | prepend: site.url }}" height="400"> -->
+                          <img class="img-main" src="{{ post.image | remove:'https://kaia-HSU.github.io' }}" height="400">
                           {% endif %}
 
                           {% if post.video %}
