@@ -12,7 +12,7 @@
                     {% if page.image %}
 <!--                     <img class="img-main" src="{{ page.image | prepend: site.url }}" height="400"> -->
 <!--                         <img class="img-main" src="{{ prepend: image.url }}" height="400"> -->
-                        <img class="img-main" src="{{ post.image }}" height="400">
+                        <img class="img-main" src="{{ site.url | remove:'https://kaia-HSU.github.io' }}" height="400">
                     {% endif %}
 
                     {% if page.video %}
