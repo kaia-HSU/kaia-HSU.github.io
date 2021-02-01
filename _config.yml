@@ -2,7 +2,6 @@
 description:  This is personal blog.
 baseurl: ""
 url: "https://kaiachun.github.io" 
-twitter_username: LAV_K_V
 github_username:  kaiachun
 include: ['_pages']
 
@@ -27,6 +26,11 @@ paginate_path: "/page:num/"
 
 # Enable comments
 comments: true
+
+disqus: 
+  enable: true
+  shortname: kaiachun
+  count: true
 
 # Markdown settings
 kramdown:
