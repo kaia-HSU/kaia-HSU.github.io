@@ -27,10 +27,6 @@ paginate_path: "/page:num/"
 # Enable comments
 comments: true
 
-disqus: 
-  enable: true
-  shortname: kaiachun
-  count: true
 
 # Markdown settings
 kramdown:
