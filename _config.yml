@@ -27,7 +27,6 @@ paginate_path: "/page:num/"
 # Enable comments
 comments: true
 
-
 # Markdown settings
 kramdown:
   auto_ids:       true
