@@ -12,6 +12,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita maiores quisq
 
 # 教學
 
+<!-- 顯示留言區 -->
 {% if site.comments %}
 
 <div id="disqus_thread"></div>
