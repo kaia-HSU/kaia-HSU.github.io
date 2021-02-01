@@ -28,7 +28,7 @@ paginate_path: "/page:num/"
 comments: 
   enable: true
   type: disqus
-  shortname: kaia-HSU
+  shortname: kaia-hsu
 
 # Markdown settings
 kramdown:
