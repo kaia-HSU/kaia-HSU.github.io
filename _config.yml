@@ -25,7 +25,9 @@ paginate: 5
 paginate_path: "/page:num/"
 
 # Enable comments
-comments: true
+comments: 
+  enable: true
+  type: disqus
 
 # Markdown settings
 kramdown:
