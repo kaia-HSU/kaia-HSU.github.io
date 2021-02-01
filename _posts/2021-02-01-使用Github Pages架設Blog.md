@@ -36,5 +36,4 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita maiores quisq
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
 
-
 {% endif %}
