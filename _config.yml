@@ -29,6 +29,7 @@ comments:
   enable: true
   type: disqus
   shortname: kaia-hsu
+  count: true
 
 # Markdown settings
 kramdown:
