@@ -2,8 +2,8 @@
 layout: blog
 title: '使用Github Pages架設技術網站'
 date: 2021-01-26
-categories: blog
-tags: study
+categories: study
+tags: code
 image: 'https://www.bbc.com/staticarchive/57aaecf7e633cdfe10d8f6c303f911a142f7da57.jpg'
 
 ---
