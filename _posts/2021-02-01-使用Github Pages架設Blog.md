@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: study
 title: '使用Github Pages架設技術網站'
 date: 2021-01-26
 categories: study
