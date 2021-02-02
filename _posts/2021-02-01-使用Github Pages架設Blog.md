@@ -10,7 +10,7 @@ image: 'https://www.bbc.com/staticarchive/57aaecf7e633cdfe10d8f6c303f911a142f7da
 
 # 使用Github Pages架設技術網站
 ## Index
-* [為何要用Github Pages](##起因)
+<a href='#pages'>為何要用Github Pages</a>
 * [工具](##工具)
 * [實作流程](##實作流程)
     * [建立新資料庫](###建立repository)  
@@ -19,7 +19,7 @@ image: 'https://www.bbc.com/staticarchive/57aaecf7e633cdfe10d8f6c303f911a142f7da
     * [建立Disqus留言板](###使用Disqus建立留言板)
 * [故障排除](##故障排除)
 
-## 起因
+<a name='pages'>起因</a>
 
 
 ## 工具
