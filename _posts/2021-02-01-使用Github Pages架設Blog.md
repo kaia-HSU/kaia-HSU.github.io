@@ -13,10 +13,10 @@ image: 'https://www.bbc.com/staticarchive/57aaecf7e633cdfe10d8f6c303f911a142f7da
 * [為何要用Github Pages](##起因)
 * [工具](##工具)
 * [實作流程](##實作流程)
-    * [建立新資料庫](建立repository)  
-    * [本地端測試](本地端測試)
-    * [更改網頁內容](Jekyll網頁架構)
-    * [建立Disqus留言板](使用Disqus建立留言板)
+    * [建立新資料庫](###建立repository)  
+    * [本地端測試](###本地端測試)
+    * [更改網頁內容](###Jekyll網頁架構)
+    * [建立Disqus留言板](###使用Disqus建立留言板)
 * [故障排除](##故障排除)
 
 ## 起因
