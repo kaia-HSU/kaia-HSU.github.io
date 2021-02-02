@@ -8,9 +8,34 @@ image: 'https://www.bbc.com/staticarchive/57aaecf7e633cdfe10d8f6c303f911a142f7da
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita maiores quisquam id sunt, a architecto molestias velit, distinctio quidem non, nostrum provident quibusdam enim. Neque ipsam temporibus commodi facere minima.
+# 使用Github Pages架設技術網站
+## Index
+* [為何要用Github Pages](##起因)
+* [工具](##工具)
+* [實作流程](##實作流程)
+    * [建立新資料庫](建立repository)  
+    * [本地端測試](本地端測試)
+    * [更改網頁內容](Jekyll網頁架構)
+    * [建立Disqus留言板](使用Disqus建立留言板)
+* [故障排除](##故障排除)
 
-# 教學
+## 起因
+
+
+## 工具
+
+## 實作流程
+
+### 建立repository
+
+### 本地端測試
+
+### Jekyll網頁架構
+
+### 使用Disqus建立留言板
+
+
+## 故障排除
 
 <!-- 顯示留言區 -->
 {% if site.comments %}
