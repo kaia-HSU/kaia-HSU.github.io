@@ -9,11 +9,12 @@ admin_email: 'kaiatjp6@gmail.com'
 
 #####################################################################
 #About Page
-author_name: 'Lav Kumar Vishwakarma'
-author_profession: 'Full Stack Developer'
+author_name: 'kaia HSU 許雅淳'
+author_profession: 'stay hungry stay foolish.'
 author_description: '
+
 '
-author_image: '/images/mac.jpg'
+author_image: '/images/info.png'
 
 # social proiles
 linkedin: 'https://www.linkedin.com/in/lav-vishwakarma/'
