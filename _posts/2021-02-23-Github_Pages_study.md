@@ -82,31 +82,8 @@ p.s. Markdown語法要換行要在結尾的部分空兩格
 2. 修改 _config.yml 檔  
 ![](https://i.imgur.com/5QLjzmT.png)  
 
-3. 在想顯示留言的內容下方加上下列程式 
-```
-<div id="disqus_thread"></div>
-
-<script>
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://你的Disqus名稱.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-```
-
-(下面列出如何取得這段程式碼)
+3. 在想顯示留言的內容下方加上下列程式    
+(在這裡貼上code會出現排版錯誤，下面列出如何取得這段程式碼)
 * 進入Disqus官網，並登入  
 ![](https://i.imgur.com/5peiYLJ.png)
 * 點選  
