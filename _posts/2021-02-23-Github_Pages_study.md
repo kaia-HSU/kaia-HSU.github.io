@@ -4,7 +4,7 @@ title: '用GitHub Pages建立技術部落格'
 date: 2021-02-05 18:20:34
 categories: learn
 tags: study
-image: 'https://g.udn.com.tw/upfiles/B_AR/arthurnote/PSN_PHOTO/530/f_25575530_1.png'
+image: 'https://blinkbits.com/wp-content/uploads/2018/10/Blogs-1.jpg'
 lead_text: '將自己的學習檔案用Git以Blog方式在網頁上公開'
 ---
 ## Github Pages 介紹
