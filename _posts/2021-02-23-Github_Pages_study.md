@@ -1,5 +1,5 @@
 ---
-layout: learn
+layout: blog
 title: '用GitHub Pages建立技術部落格'
 date: 2021-02-05 18:20:34
 categories: learn
