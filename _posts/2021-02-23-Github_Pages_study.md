@@ -83,6 +83,7 @@ p.s. Markdown語法要換行要在結尾的部分空兩格
 ![](https://i.imgur.com/5QLjzmT.png)  
 
 3. 在想顯示留言的位置加上下列程式 
+
 ```
 <div id="disqus_thread"></div>
 
@@ -98,7 +99,7 @@ p.s. Markdown語法要換行要在結尾的部分空兩格
     */
     (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
-    s.src = 'https://你的Disqus名稱.disqus.com/embed.js';
+    s.src = 'https://kaia-hsu.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
     })();
