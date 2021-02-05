@@ -80,10 +80,10 @@ p.s. Markdown語法要換行要在結尾的部分空兩格
 ![](https://i.imgur.com/mpAsfff.png)
 
 2. 修改 _config.yml 檔  
-![](https://i.imgur.com/5QLjzmT.png)
+![](https://i.imgur.com/5QLjzmT.png)  
 
 3. 在想顯示留言的內容下方加上  
-```
+``` javascript
 <div id="disqus_thread"></div>
 <script>
         (function() { // DON'T EDIT BELOW THIS LINE
@@ -96,7 +96,7 @@ p.s. Markdown語法要換行要在結尾的部分空兩格
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
 ```
-
+  
 4. 成功了~  
 ![](https://i.imgur.com/Dx8dg3x.png)
 
