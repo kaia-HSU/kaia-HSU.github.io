@@ -129,10 +129,10 @@ git remote set-url origin https://github.com/PanteraSama/landingPageResponsive.g
 
 
 ## 參考網址
-[Jeykll官方文件](https://jekyllrb.com/docs/)
-[Jekyll模板語法](https://gist.github.com/JJediny/a466eed62cee30ad45e2)
-[在Winodws上運作jekyll](https://wcc723.github.io/jekyll/2014/01/13/windows-jekyll-server/)
-[Github Pages + jekyll 全面介紹極簡搭建個人網站和部落格](https://www.itread01.com/iqhklc.html)
+[Jeykll官方文件](https://jekyllrb.com/docs/)  
+[Jekyll模板語法](https://gist.github.com/JJediny/a466eed62cee30ad45e2)  
+[在Winodws上運作jekyll](https://wcc723.github.io/jekyll/2014/01/13/windows-jekyll-server/)  
+[Github Pages + jekyll 全面介紹極簡搭建個人網站和部落格](https://www.itread01.com/iqhklc.html)  
 
 <!-- 顯示留言區 -->
 {% if site.comments %}
