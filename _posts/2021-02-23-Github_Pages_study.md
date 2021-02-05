@@ -1,8 +1,8 @@
 ---
-layout: Learn
+layout: learn
 title: '用GitHub Pages建立技術部落格'
 date: 2021-02-05 18:20:34
-categories: Learn
+categories: learn
 tags: study
 image: 'https://g.udn.com.tw/upfiles/B_AR/arthurnote/PSN_PHOTO/530/f_25575530_1.png'
 lead_text: '將自己的學習檔案用Git以Blog方式在網頁上公開'
@@ -83,7 +83,7 @@ p.s. Markdown語法要換行要在結尾的部分空兩格
 ![](https://i.imgur.com/5QLjzmT.png)  
 
 3. 在想顯示留言的內容下方加上  
-``` javascript
+``` html=
 <div id="disqus_thread"></div>
 <script>
         (function() { // DON'T EDIT BELOW THIS LINE
@@ -94,7 +94,6 @@ p.s. Markdown語法要換行要在結尾的部分空兩格
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-
 ```
   
 4. 成功了~  
