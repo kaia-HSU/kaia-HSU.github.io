@@ -82,8 +82,7 @@ p.s. Markdown語法要換行要在結尾的部分空兩格
 2. 修改 _config.yml 檔  
 ![](https://i.imgur.com/5QLjzmT.png)  
 
-3. 在想顯示留言的位置加上下列程式 
-
+3. 在想顯示留言的內容下方加上下列程式 
 ```
 <div id="disqus_thread"></div>
 
@@ -107,7 +106,7 @@ p.s. Markdown語法要換行要在結尾的部分空兩格
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 ```
 
-(下面列出如何取得這段程式碼)  
+(下面列出如何取得這段程式碼)
 * 進入Disqus官網，並登入  
 ![](https://i.imgur.com/5peiYLJ.png)
 * 點選  
