@@ -95,6 +95,7 @@ p.s. Markdown語法要換行要在結尾的部分空兩格
 ![](https://i.imgur.com/Dx8dg3x.png)
 
 <pre><code>
+```
 {% if site.comments %}
 
 <div id="disqus_thread"></div>
@@ -120,6 +121,7 @@ p.s. Markdown語法要換行要在結尾的部分空兩格
 
 
 {% endif %}
+```
 </code></pre>
 
 ## 故障排除
