@@ -101,7 +101,7 @@ p.s. Markdown語法要換行要在結尾的部分空兩格
 (在coding的瞬間，我多改了一點，bug不在遙遠 在你身邊~~)
 1. could not find ‘bundler’ required by …  
 ![](https://i.imgur.com/uv8K8KM.png)  
-解決方法: 
+解決方法:  
 前提:需先關閉防毒軟體，才可以進行安裝  
 安裝:  
 *  bundle update –bundler  
