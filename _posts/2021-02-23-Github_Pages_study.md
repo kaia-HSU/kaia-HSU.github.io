@@ -95,9 +95,9 @@ p.s. Markdown語法要換行要在結尾的部分空兩格
 ![](https://i.imgur.com/Dx8dg3x.png)
 
 >{% if site.comments %}
-
-><div id="disqus_thread"></div>
 ```
+<div id="disqus_thread"></div>
+
 <script>
     /**
     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
