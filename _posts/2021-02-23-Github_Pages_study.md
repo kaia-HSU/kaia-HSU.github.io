@@ -83,7 +83,7 @@ p.s. Markdown語法要換行要在結尾的部分空兩格
 ![](https://i.imgur.com/5QLjzmT.png)
 
 3. 在想顯示留言的內容下方加上  
-```html
+```html= 
 <div id="disqus_thread"></div>
 <script>
         (function() { // DON'T EDIT BELOW THIS LINE
