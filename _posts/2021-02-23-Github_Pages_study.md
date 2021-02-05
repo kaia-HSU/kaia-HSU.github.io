@@ -125,7 +125,7 @@ git remote set-url origin https://github.com/PanteraSama/landingPageResponsive.g
 
 <font color='red'>可能還有許多種的錯誤，族繁不及備載，請自行Google XD</font>
 
-
+<hr>
 
 
 ## 參考網址
