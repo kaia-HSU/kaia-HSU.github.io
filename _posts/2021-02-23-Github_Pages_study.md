@@ -94,10 +94,8 @@ p.s. Markdown語法要換行要在結尾的部分空兩格
 4. 成功了~  
 ![](https://i.imgur.com/Dx8dg3x.png)
 
-<pre><code>
-```
-{% if site.comments %}
 
+```
 <div id="disqus_thread"></div>
 
 <script>
@@ -118,11 +116,7 @@ p.s. Markdown語法要換行要在結尾的部分空兩格
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-
-
-{% endif %}
 ```
-</code></pre>
 
 ## 故障排除
 (在coding的瞬間，我多改了一點，bug不在遙遠 在你身邊~~)
